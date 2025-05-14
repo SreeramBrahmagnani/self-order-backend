@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PIZZA",
+    "price": 200,
+    "enabled": true,
+    "image": "/images/2.png",
+    "id": 1
+  },
+  {
+    "id": 6,
+    "name": "BURGER",
+    "price": 100,
+    "image": "/images/1.png",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "FRIES",
+    "price": 60,
+    "image": "/images/8.png",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "NUGGETS",
+    "price": 70,
+    "image": "/images/3.png",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "SANDWICH",
+    "price": 90,
+    "image": "/images/5.png",
+    "enabled": true
+  },
+  {
+    "name": "TACOS",
+    "price": "110",
+    "enabled": true,
+    "image": "/images/7.png",
+    "id": 5
+  }
+]
